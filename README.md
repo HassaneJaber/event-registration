@@ -1,5 +1,3 @@
-# event-registration
-
 # 🎟️ Event Registration System
 
 A Laravel-based Event Registration System that allows users to browse and register for events while providing an admin panel for event management.
